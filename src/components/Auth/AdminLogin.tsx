@@ -112,7 +112,7 @@ const AdminLogin: React.FC<AdminLoginProps> = ({ onLogin, onBack }) => {
           </div>
 
           <div className="mt-4 text-xs text-gray-500 text-center">
-            <p>Default credentials: admin / admin123</p>
+{/*             <p>Default credentials: admin / admin123</p> */}
           </div>
         </div>
       </div>
